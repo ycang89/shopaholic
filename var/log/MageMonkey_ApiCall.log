@@ -1,0 +1,2006 @@
+2013-11-12T03:09:14+00:00 DEBUG (7): Array
+(
+    [0] => us1.api.mailchimp.com
+    [__pid] => 5596
+)
+
+2013-11-12T03:09:14+00:00 DEBUG (7): Array
+(
+    [__pid] => 5596
+)
+
+2013-11-12T03:09:14+00:00 DEBUG (7): Array
+(
+    [0] => getAccountDetails
+    [__pid] => 5596
+)
+
+2013-11-12T03:09:14+00:00 DEBUG (7): Array
+(
+    [__pid] => 5596
+)
+
+2013-11-12T03:09:14+00:00 DEBUG (7): Array
+(
+    [0] => 
+    [__pid] => 5596
+)
+
+2013-11-12T03:09:14+00:00 DEBUG (7): Array
+(
+    [0] => Error: You must specify a apikey value for the getAccountDetails method, code -90
+    [__pid] => 5596
+)
+
+2013-11-12T03:09:14+00:00 DEBUG (7): Array
+(
+    [0] => us1.api.mailchimp.com
+    [__pid] => 5596
+)
+
+2013-11-12T03:09:14+00:00 DEBUG (7): Array
+(
+    [__pid] => 5596
+)
+
+2013-11-12T03:09:14+00:00 DEBUG (7): Array
+(
+    [0] => lists
+    [__pid] => 5596
+)
+
+2013-11-12T03:09:14+00:00 DEBUG (7): Array
+(
+    [__pid] => 5596
+)
+
+2013-11-12T03:09:15+00:00 DEBUG (7): Array
+(
+    [0] => 
+    [__pid] => 5596
+)
+
+2013-11-12T03:09:15+00:00 DEBUG (7): Array
+(
+    [0] => Error: You must specify a apikey value for the lists method, code -90
+    [__pid] => 5596
+)
+
+2013-11-12T03:09:15+00:00 DEBUG (7): Array
+(
+    [0] => us1.api.mailchimp.com
+    [__pid] => 5596
+)
+
+2013-11-12T03:09:15+00:00 DEBUG (7): Array
+(
+    [__pid] => 5596
+)
+
+2013-11-12T03:09:15+00:00 DEBUG (7): Array
+(
+    [0] => getAccountDetails
+    [__pid] => 5596
+)
+
+2013-11-12T03:09:15+00:00 DEBUG (7): Array
+(
+    [__pid] => 5596
+)
+
+2013-11-12T03:09:16+00:00 DEBUG (7): Array
+(
+    [0] => 
+    [__pid] => 5596
+)
+
+2013-11-12T03:09:16+00:00 DEBUG (7): Array
+(
+    [0] => Error: You must specify a apikey value for the getAccountDetails method, code -90
+    [__pid] => 5596
+)
+
+2013-11-12T03:09:16+00:00 DEBUG (7): Array
+(
+    [0] => us1.api.mailchimp.com
+    [__pid] => 5596
+)
+
+2013-11-12T03:09:16+00:00 DEBUG (7): Array
+(
+    [__pid] => 5596
+)
+
+2013-11-12T03:09:16+00:00 DEBUG (7): Array
+(
+    [0] => ping
+    [__pid] => 5596
+)
+
+2013-11-12T03:09:16+00:00 DEBUG (7): Array
+(
+    [__pid] => 5596
+)
+
+2013-11-12T03:09:17+00:00 DEBUG (7): Array
+(
+    [0] => 
+    [__pid] => 5596
+)
+
+2013-11-12T03:09:17+00:00 DEBUG (7): Array
+(
+    [0] => Error: You must specify a apikey value for the ping method, code -90
+    [__pid] => 5596
+)
+
+2013-11-12T03:13:16+00:00 DEBUG (7): Array
+(
+    [0] => us1.api.mailchimp.com
+    [__pid] => 5596
+)
+
+2013-11-12T03:13:16+00:00 DEBUG (7): Array
+(
+    [__pid] => 5596
+)
+
+2013-11-12T03:13:16+00:00 DEBUG (7): Array
+(
+    [0] => getAccountDetails
+    [__pid] => 5596
+)
+
+2013-11-12T03:13:16+00:00 DEBUG (7): Array
+(
+    [__pid] => 5596
+)
+
+2013-11-12T03:13:17+00:00 DEBUG (7): Array
+(
+    [0] => 
+    [__pid] => 5596
+)
+
+2013-11-12T03:13:17+00:00 DEBUG (7): Array
+(
+    [0] => Error: You must specify a apikey value for the getAccountDetails method, code -90
+    [__pid] => 5596
+)
+
+2013-11-12T03:13:17+00:00 DEBUG (7): Array
+(
+    [0] => us1.api.mailchimp.com
+    [__pid] => 5596
+)
+
+2013-11-12T03:13:17+00:00 DEBUG (7): Array
+(
+    [__pid] => 5596
+)
+
+2013-11-12T03:13:17+00:00 DEBUG (7): Array
+(
+    [0] => lists
+    [__pid] => 5596
+)
+
+2013-11-12T03:13:17+00:00 DEBUG (7): Array
+(
+    [__pid] => 5596
+)
+
+2013-11-12T03:13:17+00:00 DEBUG (7): Array
+(
+    [0] => 
+    [__pid] => 5596
+)
+
+2013-11-12T03:13:17+00:00 DEBUG (7): Array
+(
+    [0] => Error: You must specify a apikey value for the lists method, code -90
+    [__pid] => 5596
+)
+
+2013-11-12T03:13:18+00:00 DEBUG (7): Array
+(
+    [0] => us1.api.mailchimp.com
+    [__pid] => 5596
+)
+
+2013-11-12T03:13:18+00:00 DEBUG (7): Array
+(
+    [__pid] => 5596
+)
+
+2013-11-12T03:13:18+00:00 DEBUG (7): Array
+(
+    [0] => getAccountDetails
+    [__pid] => 5596
+)
+
+2013-11-12T03:13:18+00:00 DEBUG (7): Array
+(
+    [__pid] => 5596
+)
+
+2013-11-12T03:13:18+00:00 DEBUG (7): Array
+(
+    [0] => 
+    [__pid] => 5596
+)
+
+2013-11-12T03:13:18+00:00 DEBUG (7): Array
+(
+    [0] => Error: You must specify a apikey value for the getAccountDetails method, code -90
+    [__pid] => 5596
+)
+
+2013-11-12T03:13:18+00:00 DEBUG (7): Array
+(
+    [0] => us1.api.mailchimp.com
+    [__pid] => 5596
+)
+
+2013-11-12T03:13:18+00:00 DEBUG (7): Array
+(
+    [__pid] => 5596
+)
+
+2013-11-12T03:13:18+00:00 DEBUG (7): Array
+(
+    [0] => ping
+    [__pid] => 5596
+)
+
+2013-11-12T03:13:18+00:00 DEBUG (7): Array
+(
+    [__pid] => 5596
+)
+
+2013-11-12T03:13:19+00:00 DEBUG (7): Array
+(
+    [0] => 
+    [__pid] => 5596
+)
+
+2013-11-12T03:13:19+00:00 DEBUG (7): Array
+(
+    [0] => Error: You must specify a apikey value for the ping method, code -90
+    [__pid] => 5596
+)
+
+2013-11-12T03:14:07+00:00 DEBUG (7): Array
+(
+    [0] => us1.api.mailchimp.com
+    [__pid] => 5596
+)
+
+2013-11-12T03:14:07+00:00 DEBUG (7): Array
+(
+    [0] => 31f405e1c05441f3c114f1a0abca568e
+    [__pid] => 5596
+)
+
+2013-11-12T03:14:07+00:00 DEBUG (7): Array
+(
+    [0] => ping
+    [__pid] => 5596
+)
+
+2013-11-12T03:14:07+00:00 DEBUG (7): Array
+(
+    [__pid] => 5596
+)
+
+2013-11-12T03:14:08+00:00 DEBUG (7): Array
+(
+    [0] => 
+    [__pid] => 5596
+)
+
+2013-11-12T03:14:08+00:00 DEBUG (7): Array
+(
+    [0] => Error: Invalid Mailchimp API Key: 31f405e1c05441f3c114f1a0abca568e . You are accessing the wrong datacenter - your client library may not properly support our datacenter mapping scheme., code 104
+    [__pid] => 5596
+)
+
+2013-11-12T03:14:10+00:00 DEBUG (7): Array
+(
+    [0] => us1.api.mailchimp.com
+    [__pid] => 5596
+)
+
+2013-11-12T03:14:10+00:00 DEBUG (7): Array
+(
+    [0] => 31f405e1c05441f3c114f1a0abca568e
+    [__pid] => 5596
+)
+
+2013-11-12T03:14:10+00:00 DEBUG (7): Array
+(
+    [0] => getAccountDetails
+    [__pid] => 5596
+)
+
+2013-11-12T03:14:10+00:00 DEBUG (7): Array
+(
+    [__pid] => 5596
+)
+
+2013-11-12T03:14:11+00:00 DEBUG (7): Array
+(
+    [0] => 
+    [__pid] => 5596
+)
+
+2013-11-12T03:14:11+00:00 DEBUG (7): Array
+(
+    [0] => Error: Invalid Mailchimp API Key: 31f405e1c05441f3c114f1a0abca568e . You are accessing the wrong datacenter - your client library may not properly support our datacenter mapping scheme., code 104
+    [__pid] => 5596
+)
+
+2013-11-12T03:14:11+00:00 DEBUG (7): Array
+(
+    [0] => us1.api.mailchimp.com
+    [__pid] => 5596
+)
+
+2013-11-12T03:14:11+00:00 DEBUG (7): Array
+(
+    [0] => 31f405e1c05441f3c114f1a0abca568e
+    [__pid] => 5596
+)
+
+2013-11-12T03:14:11+00:00 DEBUG (7): Array
+(
+    [0] => lists
+    [__pid] => 5596
+)
+
+2013-11-12T03:14:11+00:00 DEBUG (7): Array
+(
+    [__pid] => 5596
+)
+
+2013-11-12T03:14:11+00:00 DEBUG (7): Array
+(
+    [0] => 
+    [__pid] => 5596
+)
+
+2013-11-12T03:14:11+00:00 DEBUG (7): Array
+(
+    [0] => Error: Invalid Mailchimp API Key: 31f405e1c05441f3c114f1a0abca568e . You are accessing the wrong datacenter - your client library may not properly support our datacenter mapping scheme., code 104
+    [__pid] => 5596
+)
+
+2013-11-12T03:14:11+00:00 DEBUG (7): Array
+(
+    [0] => us1.api.mailchimp.com
+    [__pid] => 5596
+)
+
+2013-11-12T03:14:11+00:00 DEBUG (7): Array
+(
+    [0] => 31f405e1c05441f3c114f1a0abca568e
+    [__pid] => 5596
+)
+
+2013-11-12T03:14:11+00:00 DEBUG (7): Array
+(
+    [0] => getAccountDetails
+    [__pid] => 5596
+)
+
+2013-11-12T03:14:11+00:00 DEBUG (7): Array
+(
+    [__pid] => 5596
+)
+
+2013-11-12T03:14:12+00:00 DEBUG (7): Array
+(
+    [0] => 
+    [__pid] => 5596
+)
+
+2013-11-12T03:14:12+00:00 DEBUG (7): Array
+(
+    [0] => Error: Invalid Mailchimp API Key: 31f405e1c05441f3c114f1a0abca568e . You are accessing the wrong datacenter - your client library may not properly support our datacenter mapping scheme., code 104
+    [__pid] => 5596
+)
+
+2013-11-12T03:14:12+00:00 DEBUG (7): Array
+(
+    [0] => us1.api.mailchimp.com
+    [__pid] => 5596
+)
+
+2013-11-12T03:14:12+00:00 DEBUG (7): Array
+(
+    [0] => 31f405e1c05441f3c114f1a0abca568e
+    [__pid] => 5596
+)
+
+2013-11-12T03:14:12+00:00 DEBUG (7): Array
+(
+    [0] => ping
+    [__pid] => 5596
+)
+
+2013-11-12T03:14:12+00:00 DEBUG (7): Array
+(
+    [__pid] => 5596
+)
+
+2013-11-12T03:14:13+00:00 DEBUG (7): Array
+(
+    [0] => 
+    [__pid] => 5596
+)
+
+2013-11-12T03:14:13+00:00 DEBUG (7): Array
+(
+    [0] => Error: Invalid Mailchimp API Key: 31f405e1c05441f3c114f1a0abca568e . You are accessing the wrong datacenter - your client library may not properly support our datacenter mapping scheme., code 104
+    [__pid] => 5596
+)
+
+2013-11-12T03:15:03+00:00 DEBUG (7): Array
+(
+    [0] => us3.api.mailchimp.com
+    [__pid] => 5596
+)
+
+2013-11-12T03:15:03+00:00 DEBUG (7): Array
+(
+    [0] => 31f405e1c05441f3c114f1a0abca568e-us3
+    [__pid] => 5596
+)
+
+2013-11-12T03:15:03+00:00 DEBUG (7): Array
+(
+    [0] => ping
+    [__pid] => 5596
+)
+
+2013-11-12T03:15:03+00:00 DEBUG (7): Array
+(
+    [__pid] => 5596
+)
+
+2013-11-12T03:15:04+00:00 DEBUG (7): Array
+(
+    [0] => Everything's Chimpy!
+    [__pid] => 5596
+)
+
+2013-11-12T03:15:04+00:00 DEBUG (7): Array
+(
+    [0] => us3.api.mailchimp.com
+    [__pid] => 5596
+)
+
+2013-11-12T03:15:04+00:00 DEBUG (7): Array
+(
+    [0] => 31f405e1c05441f3c114f1a0abca568e-us3
+    [__pid] => 5596
+)
+
+2013-11-12T03:15:04+00:00 DEBUG (7): Array
+(
+    [0] => lists
+    [__pid] => 5596
+)
+
+2013-11-12T03:15:04+00:00 DEBUG (7): Array
+(
+    [__pid] => 5596
+)
+
+2013-11-12T03:15:04+00:00 DEBUG (7): Array
+(
+    [total] => 0
+    [data] => Array
+        (
+        )
+
+    [__pid] => 5596
+)
+
+2013-11-12T03:15:06+00:00 DEBUG (7): Array
+(
+    [0] => us3.api.mailchimp.com
+    [__pid] => 5596
+)
+
+2013-11-12T03:15:06+00:00 DEBUG (7): Array
+(
+    [0] => 31f405e1c05441f3c114f1a0abca568e-us3
+    [__pid] => 5596
+)
+
+2013-11-12T03:15:06+00:00 DEBUG (7): Array
+(
+    [0] => getAccountDetails
+    [__pid] => 5596
+)
+
+2013-11-12T03:15:06+00:00 DEBUG (7): Array
+(
+    [__pid] => 5596
+)
+
+2013-11-12T03:15:10+00:00 DEBUG (7): Array
+(
+    [user_id] => 04aaea9e073008f32fa32e75a
+    [username] => Shopaholic Sdn Bhd
+    [member_since] => 2013-11-12 03:10:15
+    [is_approved] => 
+    [is_trial] => 1
+    [has_activated] => 1
+    [timezone] => Asia/Hong_Kong
+    [plan_type] => free
+    [emails_left] => 12000
+    [pending_monthly] => 
+    [first_payment] => 
+    [last_payment] => 
+    [times_logged_in] => 0
+    [last_login] => 2013-11-12 03:14:46
+    [affiliate_link] => http://www.mailchimp.com/monkey-rewards/?utm_source=freemium_newsletter&utm_medium=email&utm_campaign=monkey_rewards&aid=04aaea9e073008f32fa32e75a&afl=1
+    [contact] => Array
+        (
+            [fname] => Yc
+            [lname] => Ang
+            [email] => yeowchuan89@gmail.com
+            [company] => Shopaholic Sdn Bhd
+            [address1] => Kuala Lumpur
+            [address2] => 
+            [city] => Kuala Lumpur
+            [state] => Federal Territory of Kuala Lumpur
+            [zip] => 50400
+            [country] => Malaysia
+            [url] => http://www.shopaholic.com
+            [phone] => 
+            [fax] => 
+        )
+
+    [modules] => Array
+        (
+        )
+
+    [orders] => Array
+        (
+        )
+
+    [rewards] => Array
+        (
+            [referrals_this_month] => 0
+            [notify_on] => 
+            [notify_email] => 
+            [credits] => Array
+                (
+                    [this_month] => 0
+                    [total_earned] => 0
+                    [remaining] => 0
+                )
+
+            [inspections] => Array
+                (
+                    [this_month] => 0
+                    [total_earned] => 0
+                    [remaining] => 0
+                )
+
+            [referrals] => Array
+                (
+                )
+
+            [applied] => Array
+                (
+                )
+
+        )
+
+    [__pid] => 5596
+)
+
+2013-11-12T03:15:10+00:00 DEBUG (7): Array
+(
+    [0] => us3.api.mailchimp.com
+    [__pid] => 5596
+)
+
+2013-11-12T03:15:10+00:00 DEBUG (7): Array
+(
+    [0] => 31f405e1c05441f3c114f1a0abca568e-us3
+    [__pid] => 5596
+)
+
+2013-11-12T03:15:10+00:00 DEBUG (7): Array
+(
+    [0] => lists
+    [__pid] => 5596
+)
+
+2013-11-12T03:15:10+00:00 DEBUG (7): Array
+(
+    [__pid] => 5596
+)
+
+2013-11-12T03:15:10+00:00 DEBUG (7): Array
+(
+    [total] => 0
+    [data] => Array
+        (
+        )
+
+    [__pid] => 5596
+)
+
+2013-11-12T03:15:11+00:00 DEBUG (7): Array
+(
+    [0] => us3.api.mailchimp.com
+    [__pid] => 5596
+)
+
+2013-11-12T03:15:11+00:00 DEBUG (7): Array
+(
+    [0] => 31f405e1c05441f3c114f1a0abca568e-us3
+    [__pid] => 5596
+)
+
+2013-11-12T03:15:11+00:00 DEBUG (7): Array
+(
+    [0] => getAccountDetails
+    [__pid] => 5596
+)
+
+2013-11-12T03:15:11+00:00 DEBUG (7): Array
+(
+    [__pid] => 5596
+)
+
+2013-11-12T03:15:14+00:00 DEBUG (7): Array
+(
+    [user_id] => 04aaea9e073008f32fa32e75a
+    [username] => Shopaholic Sdn Bhd
+    [member_since] => 2013-11-12 03:10:15
+    [is_approved] => 
+    [is_trial] => 1
+    [has_activated] => 1
+    [timezone] => Asia/Hong_Kong
+    [plan_type] => free
+    [emails_left] => 12000
+    [pending_monthly] => 
+    [first_payment] => 
+    [last_payment] => 
+    [times_logged_in] => 0
+    [last_login] => 2013-11-12 03:14:46
+    [affiliate_link] => http://www.mailchimp.com/monkey-rewards/?utm_source=freemium_newsletter&utm_medium=email&utm_campaign=monkey_rewards&aid=04aaea9e073008f32fa32e75a&afl=1
+    [contact] => Array
+        (
+            [fname] => Yc
+            [lname] => Ang
+            [email] => yeowchuan89@gmail.com
+            [company] => Shopaholic Sdn Bhd
+            [address1] => Kuala Lumpur
+            [address2] => 
+            [city] => Kuala Lumpur
+            [state] => Federal Territory of Kuala Lumpur
+            [zip] => 50400
+            [country] => Malaysia
+            [url] => http://www.shopaholic.com
+            [phone] => 
+            [fax] => 
+        )
+
+    [modules] => Array
+        (
+        )
+
+    [orders] => Array
+        (
+        )
+
+    [rewards] => Array
+        (
+            [referrals_this_month] => 0
+            [notify_on] => 
+            [notify_email] => 
+            [credits] => Array
+                (
+                    [this_month] => 0
+                    [total_earned] => 0
+                    [remaining] => 0
+                )
+
+            [inspections] => Array
+                (
+                    [this_month] => 0
+                    [total_earned] => 0
+                    [remaining] => 0
+                )
+
+            [referrals] => Array
+                (
+                )
+
+            [applied] => Array
+                (
+                )
+
+        )
+
+    [__pid] => 5596
+)
+
+2013-11-12T03:15:14+00:00 DEBUG (7): Array
+(
+    [0] => us3.api.mailchimp.com
+    [__pid] => 5596
+)
+
+2013-11-12T03:15:14+00:00 DEBUG (7): Array
+(
+    [0] => 31f405e1c05441f3c114f1a0abca568e-us3
+    [__pid] => 5596
+)
+
+2013-11-12T03:15:14+00:00 DEBUG (7): Array
+(
+    [0] => ping
+    [__pid] => 5596
+)
+
+2013-11-12T03:15:14+00:00 DEBUG (7): Array
+(
+    [__pid] => 5596
+)
+
+2013-11-12T03:15:15+00:00 DEBUG (7): Array
+(
+    [0] => Everything's Chimpy!
+    [__pid] => 5596
+)
+
+2013-11-12T03:19:48+00:00 DEBUG (7): Array
+(
+    [0] => us3.api.mailchimp.com
+    [__pid] => 5596
+)
+
+2013-11-12T03:19:48+00:00 DEBUG (7): Array
+(
+    [0] => 31f405e1c05441f3c114f1a0abca568e-us3
+    [__pid] => 5596
+)
+
+2013-11-12T03:19:48+00:00 DEBUG (7): Array
+(
+    [0] => getAccountDetails
+    [__pid] => 5596
+)
+
+2013-11-12T03:19:48+00:00 DEBUG (7): Array
+(
+    [__pid] => 5596
+)
+
+2013-11-12T03:19:50+00:00 DEBUG (7): Array
+(
+    [user_id] => 04aaea9e073008f32fa32e75a
+    [username] => Shopaholic Sdn Bhd
+    [member_since] => 2013-11-12 03:10:15
+    [is_approved] => 
+    [is_trial] => 1
+    [has_activated] => 1
+    [timezone] => Asia/Hong_Kong
+    [plan_type] => free
+    [emails_left] => 12000
+    [pending_monthly] => 
+    [first_payment] => 
+    [last_payment] => 
+    [times_logged_in] => 0
+    [last_login] => 2013-11-12 03:14:46
+    [affiliate_link] => http://www.mailchimp.com/monkey-rewards/?utm_source=freemium_newsletter&utm_medium=email&utm_campaign=monkey_rewards&aid=04aaea9e073008f32fa32e75a&afl=1
+    [contact] => Array
+        (
+            [fname] => Yc
+            [lname] => Ang
+            [email] => yeowchuan89@gmail.com
+            [company] => Shopaholic Sdn Bhd
+            [address1] => Kuala Lumpur
+            [address2] => 
+            [city] => Kuala Lumpur
+            [state] => Federal Territory of Kuala Lumpur
+            [zip] => 50400
+            [country] => Malaysia
+            [url] => http://www.shopaholic.com
+            [phone] => 
+            [fax] => 
+        )
+
+    [modules] => Array
+        (
+        )
+
+    [orders] => Array
+        (
+        )
+
+    [rewards] => Array
+        (
+            [referrals_this_month] => 0
+            [notify_on] => 
+            [notify_email] => 
+            [credits] => Array
+                (
+                    [this_month] => 0
+                    [total_earned] => 0
+                    [remaining] => 0
+                )
+
+            [inspections] => Array
+                (
+                    [this_month] => 0
+                    [total_earned] => 0
+                    [remaining] => 0
+                )
+
+            [referrals] => Array
+                (
+                )
+
+            [applied] => Array
+                (
+                )
+
+        )
+
+    [__pid] => 5596
+)
+
+2013-11-12T03:19:50+00:00 DEBUG (7): Array
+(
+    [0] => us3.api.mailchimp.com
+    [__pid] => 5596
+)
+
+2013-11-12T03:19:50+00:00 DEBUG (7): Array
+(
+    [0] => 31f405e1c05441f3c114f1a0abca568e-us3
+    [__pid] => 5596
+)
+
+2013-11-12T03:19:50+00:00 DEBUG (7): Array
+(
+    [0] => lists
+    [__pid] => 5596
+)
+
+2013-11-12T03:19:50+00:00 DEBUG (7): Array
+(
+    [__pid] => 5596
+)
+
+2013-11-12T03:19:51+00:00 DEBUG (7): Array
+(
+    [total] => 1
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 78104b3587
+                    [web_id] => 229201
+                    [name] => Shopaholic Newsletter
+                    [date_created] => 2013-11-12 03:19:35
+                    [email_type_option] => 
+                    [use_awesomebar] => 1
+                    [default_from_name] => Shopaholic Support
+                    [default_from_email] => yeowchuan89@gmail.com
+                    [default_subject] => Newsletter
+                    [default_language] => en
+                    [list_rating] => 0
+                    [subscribe_url_short] => http://eepurl.com/IEhSv
+                    [subscribe_url_long] => http://shopaholic.us3.list-manage1.com/subscribe?u=04aaea9e073008f32fa32e75a&id=78104b3587
+                    [beamer_address] => us3-facba973ca-32d527fd35@inbound.mailchimp.com
+                    [visibility] => pub
+                    [stats] => Array
+                        (
+                            [member_count] => 0
+                            [unsubscribe_count] => 0
+                            [cleaned_count] => 0
+                            [member_count_since_send] => 0
+                            [unsubscribe_count_since_send] => 0
+                            [cleaned_count_since_send] => 0
+                            [campaign_count] => 0
+                            [grouping_count] => 0
+                            [group_count] => 0
+                            [merge_var_count] => 2
+                            [avg_sub_rate] => 0
+                            [avg_unsub_rate] => 0
+                            [target_sub_rate] => 0
+                            [open_rate] => 0
+                            [click_rate] => 0
+                        )
+
+                    [modules] => Array
+                        (
+                        )
+
+                )
+
+        )
+
+    [__pid] => 5596
+)
+
+2013-11-12T03:19:51+00:00 DEBUG (7): Array
+(
+    [0] => us3.api.mailchimp.com
+    [__pid] => 5596
+)
+
+2013-11-12T03:19:51+00:00 DEBUG (7): Array
+(
+    [0] => 31f405e1c05441f3c114f1a0abca568e-us3
+    [__pid] => 5596
+)
+
+2013-11-12T03:19:51+00:00 DEBUG (7): Array
+(
+    [0] => getAccountDetails
+    [__pid] => 5596
+)
+
+2013-11-12T03:19:51+00:00 DEBUG (7): Array
+(
+    [__pid] => 5596
+)
+
+2013-11-12T03:19:54+00:00 DEBUG (7): Array
+(
+    [user_id] => 04aaea9e073008f32fa32e75a
+    [username] => Shopaholic Sdn Bhd
+    [member_since] => 2013-11-12 03:10:15
+    [is_approved] => 
+    [is_trial] => 1
+    [has_activated] => 1
+    [timezone] => Asia/Hong_Kong
+    [plan_type] => free
+    [emails_left] => 12000
+    [pending_monthly] => 
+    [first_payment] => 
+    [last_payment] => 
+    [times_logged_in] => 0
+    [last_login] => 2013-11-12 03:14:46
+    [affiliate_link] => http://www.mailchimp.com/monkey-rewards/?utm_source=freemium_newsletter&utm_medium=email&utm_campaign=monkey_rewards&aid=04aaea9e073008f32fa32e75a&afl=1
+    [contact] => Array
+        (
+            [fname] => Yc
+            [lname] => Ang
+            [email] => yeowchuan89@gmail.com
+            [company] => Shopaholic Sdn Bhd
+            [address1] => Kuala Lumpur
+            [address2] => 
+            [city] => Kuala Lumpur
+            [state] => Federal Territory of Kuala Lumpur
+            [zip] => 50400
+            [country] => Malaysia
+            [url] => http://www.shopaholic.com
+            [phone] => 
+            [fax] => 
+        )
+
+    [modules] => Array
+        (
+        )
+
+    [orders] => Array
+        (
+        )
+
+    [rewards] => Array
+        (
+            [referrals_this_month] => 0
+            [notify_on] => 
+            [notify_email] => 
+            [credits] => Array
+                (
+                    [this_month] => 0
+                    [total_earned] => 0
+                    [remaining] => 0
+                )
+
+            [inspections] => Array
+                (
+                    [this_month] => 0
+                    [total_earned] => 0
+                    [remaining] => 0
+                )
+
+            [referrals] => Array
+                (
+                )
+
+            [applied] => Array
+                (
+                )
+
+        )
+
+    [__pid] => 5596
+)
+
+2013-11-12T03:19:54+00:00 DEBUG (7): Array
+(
+    [0] => us3.api.mailchimp.com
+    [__pid] => 5596
+)
+
+2013-11-12T03:19:54+00:00 DEBUG (7): Array
+(
+    [0] => 31f405e1c05441f3c114f1a0abca568e-us3
+    [__pid] => 5596
+)
+
+2013-11-12T03:19:54+00:00 DEBUG (7): Array
+(
+    [0] => ping
+    [__pid] => 5596
+)
+
+2013-11-12T03:19:54+00:00 DEBUG (7): Array
+(
+    [__pid] => 5596
+)
+
+2013-11-12T03:19:55+00:00 DEBUG (7): Array
+(
+    [0] => Everything's Chimpy!
+    [__pid] => 5596
+)
+
+2013-11-12T03:21:21+00:00 DEBUG (7): Array
+(
+    [0] => us3.api.mailchimp.com
+    [__pid] => 5596
+)
+
+2013-11-12T03:21:21+00:00 DEBUG (7): Array
+(
+    [0] => 31f405e1c05441f3c114f1a0abca568e-us3
+    [__pid] => 5596
+)
+
+2013-11-12T03:21:21+00:00 DEBUG (7): Array
+(
+    [0] => listMemberInfo
+    [__pid] => 5596
+)
+
+2013-11-12T03:21:21+00:00 DEBUG (7): Array
+(
+    [0] => 
+    [1] => ycang@ozuraworld.com
+    [__pid] => 5596
+)
+
+2013-11-12T03:21:21+00:00 DEBUG (7): Array
+(
+    [0] => 
+    [__pid] => 5596
+)
+
+2013-11-12T03:21:21+00:00 DEBUG (7): Array
+(
+    [0] => Error: Invalid MailChimp List ID: , code 200
+    [__pid] => 5596
+)
+
+2013-11-12T03:21:22+00:00 DEBUG (7): Array
+(
+    [0] => us3.api.mailchimp.com
+    [__pid] => 5596
+)
+
+2013-11-12T03:21:22+00:00 DEBUG (7): Array
+(
+    [0] => 31f405e1c05441f3c114f1a0abca568e-us3
+    [__pid] => 5596
+)
+
+2013-11-12T03:21:22+00:00 DEBUG (7): Array
+(
+    [0] => listSubscribe
+    [__pid] => 5596
+)
+
+2013-11-12T03:21:22+00:00 DEBUG (7): Array
+(
+    [0] => 
+    [1] => ycang@ozuraworld.com
+    [2] => Array
+        (
+            [STOREID] => 1
+            [STORECRED] => 
+            [CGROUP] => NOT LOGGED IN
+            [GROUPINGS] => Array
+                (
+                )
+
+        )
+
+    [3] => html
+    [4] => 
+    [__pid] => 5596
+)
+
+2013-11-12T03:21:22+00:00 DEBUG (7): Array
+(
+    [0] => 
+    [__pid] => 5596
+)
+
+2013-11-12T03:21:22+00:00 DEBUG (7): Array
+(
+    [0] => Error: Invalid MailChimp List ID: , code 200
+    [__pid] => 5596
+)
+
+2013-11-12T03:21:57+00:00 DEBUG (7): Array
+(
+    [0] => us3.api.mailchimp.com
+    [__pid] => 5596
+)
+
+2013-11-12T03:21:57+00:00 DEBUG (7): Array
+(
+    [0] => 31f405e1c05441f3c114f1a0abca568e-us3
+    [__pid] => 5596
+)
+
+2013-11-12T03:21:57+00:00 DEBUG (7): Array
+(
+    [0] => getAccountDetails
+    [__pid] => 5596
+)
+
+2013-11-12T03:21:57+00:00 DEBUG (7): Array
+(
+    [__pid] => 5596
+)
+
+2013-11-12T03:21:59+00:00 DEBUG (7): Array
+(
+    [user_id] => 04aaea9e073008f32fa32e75a
+    [username] => Shopaholic Sdn Bhd
+    [member_since] => 2013-11-12 03:10:15
+    [is_approved] => 
+    [is_trial] => 1
+    [has_activated] => 1
+    [timezone] => Asia/Hong_Kong
+    [plan_type] => free
+    [emails_left] => 12000
+    [pending_monthly] => 
+    [first_payment] => 
+    [last_payment] => 
+    [times_logged_in] => 0
+    [last_login] => 2013-11-12 03:14:46
+    [affiliate_link] => http://www.mailchimp.com/monkey-rewards/?utm_source=freemium_newsletter&utm_medium=email&utm_campaign=monkey_rewards&aid=04aaea9e073008f32fa32e75a&afl=1
+    [contact] => Array
+        (
+            [fname] => Yc
+            [lname] => Ang
+            [email] => yeowchuan89@gmail.com
+            [company] => Shopaholic Sdn Bhd
+            [address1] => Kuala Lumpur
+            [address2] => 
+            [city] => Kuala Lumpur
+            [state] => Federal Territory of Kuala Lumpur
+            [zip] => 50400
+            [country] => Malaysia
+            [url] => http://www.shopaholic.com
+            [phone] => 
+            [fax] => 
+        )
+
+    [modules] => Array
+        (
+        )
+
+    [orders] => Array
+        (
+        )
+
+    [rewards] => Array
+        (
+            [referrals_this_month] => 0
+            [notify_on] => 
+            [notify_email] => 
+            [credits] => Array
+                (
+                    [this_month] => 0
+                    [total_earned] => 0
+                    [remaining] => 0
+                )
+
+            [inspections] => Array
+                (
+                    [this_month] => 0
+                    [total_earned] => 0
+                    [remaining] => 0
+                )
+
+            [referrals] => Array
+                (
+                )
+
+            [applied] => Array
+                (
+                )
+
+        )
+
+    [__pid] => 5596
+)
+
+2013-11-12T03:21:59+00:00 DEBUG (7): Array
+(
+    [0] => us3.api.mailchimp.com
+    [__pid] => 5596
+)
+
+2013-11-12T03:21:59+00:00 DEBUG (7): Array
+(
+    [0] => 31f405e1c05441f3c114f1a0abca568e-us3
+    [__pid] => 5596
+)
+
+2013-11-12T03:21:59+00:00 DEBUG (7): Array
+(
+    [0] => lists
+    [__pid] => 5596
+)
+
+2013-11-12T03:21:59+00:00 DEBUG (7): Array
+(
+    [__pid] => 5596
+)
+
+2013-11-12T03:22:00+00:00 DEBUG (7): Array
+(
+    [total] => 1
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 78104b3587
+                    [web_id] => 229201
+                    [name] => Shopaholic Newsletter
+                    [date_created] => 2013-11-12 03:19:35
+                    [email_type_option] => 
+                    [use_awesomebar] => 1
+                    [default_from_name] => Shopaholic Support
+                    [default_from_email] => yeowchuan89@gmail.com
+                    [default_subject] => Newsletter
+                    [default_language] => en
+                    [list_rating] => 0
+                    [subscribe_url_short] => http://eepurl.com/IEhSv
+                    [subscribe_url_long] => http://shopaholic.us3.list-manage.com/subscribe?u=04aaea9e073008f32fa32e75a&id=78104b3587
+                    [beamer_address] => us3-facba973ca-32d527fd35@inbound.mailchimp.com
+                    [visibility] => pub
+                    [stats] => Array
+                        (
+                            [member_count] => 0
+                            [unsubscribe_count] => 0
+                            [cleaned_count] => 0
+                            [member_count_since_send] => 0
+                            [unsubscribe_count_since_send] => 0
+                            [cleaned_count_since_send] => 0
+                            [campaign_count] => 0
+                            [grouping_count] => 0
+                            [group_count] => 0
+                            [merge_var_count] => 2
+                            [avg_sub_rate] => 0
+                            [avg_unsub_rate] => 0
+                            [target_sub_rate] => 0
+                            [open_rate] => 0
+                            [click_rate] => 0
+                        )
+
+                    [modules] => Array
+                        (
+                        )
+
+                )
+
+        )
+
+    [__pid] => 5596
+)
+
+2013-11-12T03:22:00+00:00 DEBUG (7): Array
+(
+    [0] => us3.api.mailchimp.com
+    [__pid] => 5596
+)
+
+2013-11-12T03:22:00+00:00 DEBUG (7): Array
+(
+    [0] => 31f405e1c05441f3c114f1a0abca568e-us3
+    [__pid] => 5596
+)
+
+2013-11-12T03:22:00+00:00 DEBUG (7): Array
+(
+    [0] => getAccountDetails
+    [__pid] => 5596
+)
+
+2013-11-12T03:22:00+00:00 DEBUG (7): Array
+(
+    [__pid] => 5596
+)
+
+2013-11-12T03:22:02+00:00 DEBUG (7): Array
+(
+    [user_id] => 04aaea9e073008f32fa32e75a
+    [username] => Shopaholic Sdn Bhd
+    [member_since] => 2013-11-12 03:10:15
+    [is_approved] => 
+    [is_trial] => 1
+    [has_activated] => 1
+    [timezone] => Asia/Hong_Kong
+    [plan_type] => free
+    [emails_left] => 12000
+    [pending_monthly] => 
+    [first_payment] => 
+    [last_payment] => 
+    [times_logged_in] => 0
+    [last_login] => 2013-11-12 03:14:46
+    [affiliate_link] => http://www.mailchimp.com/monkey-rewards/?utm_source=freemium_newsletter&utm_medium=email&utm_campaign=monkey_rewards&aid=04aaea9e073008f32fa32e75a&afl=1
+    [contact] => Array
+        (
+            [fname] => Yc
+            [lname] => Ang
+            [email] => yeowchuan89@gmail.com
+            [company] => Shopaholic Sdn Bhd
+            [address1] => Kuala Lumpur
+            [address2] => 
+            [city] => Kuala Lumpur
+            [state] => Federal Territory of Kuala Lumpur
+            [zip] => 50400
+            [country] => Malaysia
+            [url] => http://www.shopaholic.com
+            [phone] => 
+            [fax] => 
+        )
+
+    [modules] => Array
+        (
+        )
+
+    [orders] => Array
+        (
+        )
+
+    [rewards] => Array
+        (
+            [referrals_this_month] => 0
+            [notify_on] => 
+            [notify_email] => 
+            [credits] => Array
+                (
+                    [this_month] => 0
+                    [total_earned] => 0
+                    [remaining] => 0
+                )
+
+            [inspections] => Array
+                (
+                    [this_month] => 0
+                    [total_earned] => 0
+                    [remaining] => 0
+                )
+
+            [referrals] => Array
+                (
+                )
+
+            [applied] => Array
+                (
+                )
+
+        )
+
+    [__pid] => 5596
+)
+
+2013-11-12T03:22:02+00:00 DEBUG (7): Array
+(
+    [0] => us3.api.mailchimp.com
+    [__pid] => 5596
+)
+
+2013-11-12T03:22:02+00:00 DEBUG (7): Array
+(
+    [0] => 31f405e1c05441f3c114f1a0abca568e-us3
+    [__pid] => 5596
+)
+
+2013-11-12T03:22:02+00:00 DEBUG (7): Array
+(
+    [0] => ping
+    [__pid] => 5596
+)
+
+2013-11-12T03:22:02+00:00 DEBUG (7): Array
+(
+    [__pid] => 5596
+)
+
+2013-11-12T03:22:03+00:00 DEBUG (7): Array
+(
+    [0] => Everything's Chimpy!
+    [__pid] => 5596
+)
+
+2013-11-12T03:22:57+00:00 DEBUG (7): Array
+(
+    [0] => us3.api.mailchimp.com
+    [__pid] => 5596
+)
+
+2013-11-12T03:22:57+00:00 DEBUG (7): Array
+(
+    [0] => 31f405e1c05441f3c114f1a0abca568e-us3
+    [__pid] => 5596
+)
+
+2013-11-12T03:22:57+00:00 DEBUG (7): Array
+(
+    [0] => ping
+    [__pid] => 5596
+)
+
+2013-11-12T03:22:57+00:00 DEBUG (7): Array
+(
+    [__pid] => 5596
+)
+
+2013-11-12T03:22:58+00:00 DEBUG (7): Array
+(
+    [0] => Everything's Chimpy!
+    [__pid] => 5596
+)
+
+2013-11-12T03:22:58+00:00 DEBUG (7): Array
+(
+    [0] => us3.api.mailchimp.com
+    [__pid] => 5596
+)
+
+2013-11-12T03:22:58+00:00 DEBUG (7): Array
+(
+    [0] => 31f405e1c05441f3c114f1a0abca568e-us3
+    [__pid] => 5596
+)
+
+2013-11-12T03:22:58+00:00 DEBUG (7): Array
+(
+    [0] => lists
+    [__pid] => 5596
+)
+
+2013-11-12T03:22:58+00:00 DEBUG (7): Array
+(
+    [__pid] => 5596
+)
+
+2013-11-12T03:22:58+00:00 DEBUG (7): Array
+(
+    [total] => 1
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 78104b3587
+                    [web_id] => 229201
+                    [name] => Shopaholic Newsletter
+                    [date_created] => 2013-11-12 03:19:35
+                    [email_type_option] => 
+                    [use_awesomebar] => 1
+                    [default_from_name] => Shopaholic Support
+                    [default_from_email] => yeowchuan89@gmail.com
+                    [default_subject] => Newsletter
+                    [default_language] => en
+                    [list_rating] => 0
+                    [subscribe_url_short] => http://eepurl.com/IEhSv
+                    [subscribe_url_long] => http://shopaholic.us3.list-manage.com/subscribe?u=04aaea9e073008f32fa32e75a&id=78104b3587
+                    [beamer_address] => us3-facba973ca-32d527fd35@inbound.mailchimp.com
+                    [visibility] => pub
+                    [stats] => Array
+                        (
+                            [member_count] => 0
+                            [unsubscribe_count] => 0
+                            [cleaned_count] => 0
+                            [member_count_since_send] => 0
+                            [unsubscribe_count_since_send] => 0
+                            [cleaned_count_since_send] => 0
+                            [campaign_count] => 0
+                            [grouping_count] => 0
+                            [group_count] => 0
+                            [merge_var_count] => 2
+                            [avg_sub_rate] => 0
+                            [avg_unsub_rate] => 0
+                            [target_sub_rate] => 0
+                            [open_rate] => 0
+                            [click_rate] => 0
+                        )
+
+                    [modules] => Array
+                        (
+                        )
+
+                )
+
+        )
+
+    [__pid] => 5596
+)
+
+2013-11-12T03:22:58+00:00 DEBUG (7): Array
+(
+    [0] => us3.api.mailchimp.com
+    [__pid] => 5596
+)
+
+2013-11-12T03:22:58+00:00 DEBUG (7): Array
+(
+    [0] => 31f405e1c05441f3c114f1a0abca568e-us3
+    [__pid] => 5596
+)
+
+2013-11-12T03:22:58+00:00 DEBUG (7): Array
+(
+    [0] => listMergeVars
+    [__pid] => 5596
+)
+
+2013-11-12T03:22:58+00:00 DEBUG (7): Array
+(
+    [0] => 78104b3587
+    [__pid] => 5596
+)
+
+2013-11-12T03:22:59+00:00 DEBUG (7): Array
+(
+    [0] => Array
+        (
+            [name] => Email Address
+            [req] => 1
+            [field_type] => email
+            [public] => 1
+            [show] => 1
+            [order] => 1
+            [default] => 
+            [helptext] => 
+            [size] => 25
+            [tag] => EMAIL
+            [id] => 0
+        )
+
+    [1] => Array
+        (
+            [name] => First Name
+            [req] => 
+            [field_type] => text
+            [public] => 1
+            [show] => 1
+            [order] => 2
+            [default] => 
+            [helptext] => 
+            [size] => 25
+            [tag] => FNAME
+            [id] => 1
+        )
+
+    [2] => Array
+        (
+            [name] => Last Name
+            [req] => 
+            [field_type] => text
+            [public] => 1
+            [show] => 1
+            [order] => 3
+            [default] => 
+            [helptext] => 
+            [size] => 25
+            [tag] => LNAME
+            [id] => 2
+        )
+
+    [__pid] => 5596
+)
+
+2013-11-12T03:22:59+00:00 DEBUG (7): Array
+(
+    [0] => us3.api.mailchimp.com
+    [__pid] => 5596
+)
+
+2013-11-12T03:22:59+00:00 DEBUG (7): Array
+(
+    [0] => 31f405e1c05441f3c114f1a0abca568e-us3
+    [__pid] => 5596
+)
+
+2013-11-12T03:22:59+00:00 DEBUG (7): Array
+(
+    [0] => listMergeVarAdd
+    [__pid] => 5596
+)
+
+2013-11-12T03:22:59+00:00 DEBUG (7): Array
+(
+    [0] => 78104b3587
+    [1] => CGROUP
+    [2] => Customer Groups
+    [3] => Array
+        (
+            [field_type] => dropdown
+            [choices] => Array
+                (
+                    [1] => General
+                    [2] => Wholesale
+                    [3] => Retailer
+                    [4] => NOT LOGGED IN
+                )
+
+        )
+
+    [__pid] => 5596
+)
+
+2013-11-12T03:23:00+00:00 DEBUG (7): Array
+(
+    [0] => 1
+    [__pid] => 5596
+)
+
+2013-11-12T03:23:00+00:00 DEBUG (7): Array
+(
+    [0] => us3.api.mailchimp.com
+    [__pid] => 5596
+)
+
+2013-11-12T03:23:00+00:00 DEBUG (7): Array
+(
+    [0] => 31f405e1c05441f3c114f1a0abca568e-us3
+    [__pid] => 5596
+)
+
+2013-11-12T03:23:00+00:00 DEBUG (7): Array
+(
+    [0] => listWebhookAdd
+    [__pid] => 5596
+)
+
+2013-11-12T03:23:00+00:00 DEBUG (7): Array
+(
+    [0] => 78104b3587
+    [1] => http://local.shopaholic.com/monkey/webhook/index/wkey/53fd3370eb792d42default/
+    [__pid] => 5596
+)
+
+2013-11-12T03:23:00+00:00 DEBUG (7): Array
+(
+    [0] => 
+    [__pid] => 5596
+)
+
+2013-11-12T03:23:00+00:00 DEBUG (7): Array
+(
+    [0] => Error: We couldn't connect to the specified the URL. Please double check and try again., code 508
+    [__pid] => 5596
+)
+
+2013-11-12T03:23:02+00:00 DEBUG (7): Array
+(
+    [0] => us3.api.mailchimp.com
+    [__pid] => 5596
+)
+
+2013-11-12T03:23:02+00:00 DEBUG (7): Array
+(
+    [0] => 31f405e1c05441f3c114f1a0abca568e-us3
+    [__pid] => 5596
+)
+
+2013-11-12T03:23:02+00:00 DEBUG (7): Array
+(
+    [0] => getAccountDetails
+    [__pid] => 5596
+)
+
+2013-11-12T03:23:02+00:00 DEBUG (7): Array
+(
+    [__pid] => 5596
+)
+
+2013-11-12T03:23:04+00:00 DEBUG (7): Array
+(
+    [user_id] => 04aaea9e073008f32fa32e75a
+    [username] => Shopaholic Sdn Bhd
+    [member_since] => 2013-11-12 03:10:15
+    [is_approved] => 
+    [is_trial] => 1
+    [has_activated] => 1
+    [timezone] => Asia/Hong_Kong
+    [plan_type] => free
+    [emails_left] => 12000
+    [pending_monthly] => 
+    [first_payment] => 
+    [last_payment] => 
+    [times_logged_in] => 0
+    [last_login] => 2013-11-12 03:14:46
+    [affiliate_link] => http://www.mailchimp.com/monkey-rewards/?utm_source=freemium_newsletter&utm_medium=email&utm_campaign=monkey_rewards&aid=04aaea9e073008f32fa32e75a&afl=1
+    [contact] => Array
+        (
+            [fname] => Yc
+            [lname] => Ang
+            [email] => yeowchuan89@gmail.com
+            [company] => Shopaholic Sdn Bhd
+            [address1] => Kuala Lumpur
+            [address2] => 
+            [city] => Kuala Lumpur
+            [state] => Federal Territory of Kuala Lumpur
+            [zip] => 50400
+            [country] => Malaysia
+            [url] => http://www.shopaholic.com
+            [phone] => 
+            [fax] => 
+        )
+
+    [modules] => Array
+        (
+        )
+
+    [orders] => Array
+        (
+        )
+
+    [rewards] => Array
+        (
+            [referrals_this_month] => 0
+            [notify_on] => 
+            [notify_email] => 
+            [credits] => Array
+                (
+                    [this_month] => 0
+                    [total_earned] => 0
+                    [remaining] => 0
+                )
+
+            [inspections] => Array
+                (
+                    [this_month] => 0
+                    [total_earned] => 0
+                    [remaining] => 0
+                )
+
+            [referrals] => Array
+                (
+                )
+
+            [applied] => Array
+                (
+                )
+
+        )
+
+    [__pid] => 5596
+)
+
+2013-11-12T03:23:04+00:00 DEBUG (7): Array
+(
+    [0] => us3.api.mailchimp.com
+    [__pid] => 5596
+)
+
+2013-11-12T03:23:04+00:00 DEBUG (7): Array
+(
+    [0] => 31f405e1c05441f3c114f1a0abca568e-us3
+    [__pid] => 5596
+)
+
+2013-11-12T03:23:04+00:00 DEBUG (7): Array
+(
+    [0] => lists
+    [__pid] => 5596
+)
+
+2013-11-12T03:23:04+00:00 DEBUG (7): Array
+(
+    [__pid] => 5596
+)
+
+2013-11-12T03:23:05+00:00 DEBUG (7): Array
+(
+    [total] => 1
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 78104b3587
+                    [web_id] => 229201
+                    [name] => Shopaholic Newsletter
+                    [date_created] => 2013-11-12 03:19:35
+                    [email_type_option] => 
+                    [use_awesomebar] => 1
+                    [default_from_name] => Shopaholic Support
+                    [default_from_email] => yeowchuan89@gmail.com
+                    [default_subject] => Newsletter
+                    [default_language] => en
+                    [list_rating] => 0
+                    [subscribe_url_short] => http://eepurl.com/IEhSv
+                    [subscribe_url_long] => http://shopaholic.us3.list-manage.com/subscribe?u=04aaea9e073008f32fa32e75a&id=78104b3587
+                    [beamer_address] => us3-facba973ca-32d527fd35@inbound.mailchimp.com
+                    [visibility] => pub
+                    [stats] => Array
+                        (
+                            [member_count] => 0
+                            [unsubscribe_count] => 0
+                            [cleaned_count] => 0
+                            [member_count_since_send] => 0
+                            [unsubscribe_count_since_send] => 0
+                            [cleaned_count_since_send] => 0
+                            [campaign_count] => 0
+                            [grouping_count] => 0
+                            [group_count] => 0
+                            [merge_var_count] => 3
+                            [avg_sub_rate] => 0
+                            [avg_unsub_rate] => 0
+                            [target_sub_rate] => 0
+                            [open_rate] => 0
+                            [click_rate] => 0
+                        )
+
+                    [modules] => Array
+                        (
+                        )
+
+                )
+
+        )
+
+    [__pid] => 5596
+)
+
+2013-11-12T03:23:05+00:00 DEBUG (7): Array
+(
+    [0] => us3.api.mailchimp.com
+    [__pid] => 5596
+)
+
+2013-11-12T03:23:05+00:00 DEBUG (7): Array
+(
+    [0] => 31f405e1c05441f3c114f1a0abca568e-us3
+    [__pid] => 5596
+)
+
+2013-11-12T03:23:05+00:00 DEBUG (7): Array
+(
+    [0] => getAccountDetails
+    [__pid] => 5596
+)
+
+2013-11-12T03:23:05+00:00 DEBUG (7): Array
+(
+    [__pid] => 5596
+)
+
+2013-11-12T03:23:08+00:00 DEBUG (7): Array
+(
+    [user_id] => 04aaea9e073008f32fa32e75a
+    [username] => Shopaholic Sdn Bhd
+    [member_since] => 2013-11-12 03:10:15
+    [is_approved] => 
+    [is_trial] => 1
+    [has_activated] => 1
+    [timezone] => Asia/Hong_Kong
+    [plan_type] => free
+    [emails_left] => 12000
+    [pending_monthly] => 
+    [first_payment] => 
+    [last_payment] => 
+    [times_logged_in] => 0
+    [last_login] => 2013-11-12 03:14:46
+    [affiliate_link] => http://www.mailchimp.com/monkey-rewards/?utm_source=freemium_newsletter&utm_medium=email&utm_campaign=monkey_rewards&aid=04aaea9e073008f32fa32e75a&afl=1
+    [contact] => Array
+        (
+            [fname] => Yc
+            [lname] => Ang
+            [email] => yeowchuan89@gmail.com
+            [company] => Shopaholic Sdn Bhd
+            [address1] => Kuala Lumpur
+            [address2] => 
+            [city] => Kuala Lumpur
+            [state] => Federal Territory of Kuala Lumpur
+            [zip] => 50400
+            [country] => Malaysia
+            [url] => http://www.shopaholic.com
+            [phone] => 
+            [fax] => 
+        )
+
+    [modules] => Array
+        (
+        )
+
+    [orders] => Array
+        (
+        )
+
+    [rewards] => Array
+        (
+            [referrals_this_month] => 0
+            [notify_on] => 
+            [notify_email] => 
+            [credits] => Array
+                (
+                    [this_month] => 0
+                    [total_earned] => 0
+                    [remaining] => 0
+                )
+
+            [inspections] => Array
+                (
+                    [this_month] => 0
+                    [total_earned] => 0
+                    [remaining] => 0
+                )
+
+            [referrals] => Array
+                (
+                )
+
+            [applied] => Array
+                (
+                )
+
+        )
+
+    [__pid] => 5596
+)
+
+2013-11-12T03:23:08+00:00 DEBUG (7): Array
+(
+    [0] => us3.api.mailchimp.com
+    [__pid] => 5596
+)
+
+2013-11-12T03:23:08+00:00 DEBUG (7): Array
+(
+    [0] => 31f405e1c05441f3c114f1a0abca568e-us3
+    [__pid] => 5596
+)
+
+2013-11-12T03:23:08+00:00 DEBUG (7): Array
+(
+    [0] => ping
+    [__pid] => 5596
+)
+
+2013-11-12T03:23:08+00:00 DEBUG (7): Array
+(
+    [__pid] => 5596
+)
+
+2013-11-12T03:23:08+00:00 DEBUG (7): Array
+(
+    [0] => Everything's Chimpy!
+    [__pid] => 5596
+)
+
