@@ -207,3 +207,8 @@
 ## http://developer.yahoo.com/performance/rules.html#etags
 
     #FileETag none
+
+
+############################################
+## Set as developer mode to show errors
+SetEnv MAGE_IS_DEVELOPER_MODE ""
